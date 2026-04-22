@@ -1,6 +1,3 @@
-power, accuracy, defense
-getAttr(parent, function)
-
 Boolean Bullet
 damage=10
 accuracy=90
