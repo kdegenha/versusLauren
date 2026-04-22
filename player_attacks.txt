@@ -8,7 +8,7 @@ Spaghetti Code
 damage=10
 accuracy=78
 damageRange=9
-energy=20
+energy=90
 special=disrupt
 desc=Psychologically damages yourself and Lauren while also disrupting her code-based attacks. Costs 15 energy.
 
