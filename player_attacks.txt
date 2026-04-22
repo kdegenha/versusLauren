@@ -1,0 +1,40 @@
+power, accuracy, defense
+getAttr(parent, function)
+
+Boolean Bullet
+damage=10
+accuracy=90
+damageRange=1
+desc=A consistently good attack with low damage variability.
+
+Spaghetti Code
+damage=10
+accuracy=78
+damageRange=9
+energy=20
+special=disrupt
+desc=Psychologically damages yourself and Lauren while also disrupting her code-based attacks. Costs 15 energy.
+
+String Slice
+damage=10
+accuracy=70
+damageRange=9
+critChance=5
+energy=5
+desc=Slices at a random point in the loop with an iffy accuracy. Costs 5 energy.
+
+Loop Break
+damage=5
+accuracy=85
+damageRange=3
+critChance=10
+energy=10
+desc=Physically break through a loop with brute force. Critical hits shatter the turn order. Costs 10 energy.
+
+Pop
+damage=25
+accuracy=5
+damageRange=3
+critChance=1
+energy=25
+desc=Attempt to pop Lauren out of existence with big damage, but terribly low chances. Risk it for 25 energy?
