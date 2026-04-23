@@ -11,4 +11,5 @@ damage=5
 accuracy=80
 damageRange=2
 special=alias
+statChange=player,pow,100,2.lauren,acc,100,2
 desc=She summons variables from her list!
