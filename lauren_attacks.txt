@@ -1,0 +1,13 @@
+Immutable Object
+damage=5
+accuracy=80
+damageRange=2
+animation=hurt
+desc=She throws her iPad at you!
+
+Integer Swarm
+damage=5
+accuracy=80
+damageRange=2
+special=alias
+desc=She summons variables from her list!
