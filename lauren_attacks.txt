@@ -3,7 +3,7 @@ damage=5
 accuracy=80
 damageRange=2
 animation=hurt
-statChange=player,str,1,lauren,acc,1
+statChange=player,pow,1,lauren,acc,1
 desc=She throws her iPad at you!
 
 Integer Swarm
