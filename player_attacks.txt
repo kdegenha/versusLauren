@@ -2,6 +2,7 @@ Boolean Bullet
 damage=10
 accuracy=90
 damageRange=1
+statChange=player,def,17,2.lauren,def,-10,2
 desc=A consistently good attack with low damage variability.
 
 Spaghetti Code
