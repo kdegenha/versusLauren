@@ -3,14 +3,35 @@ damage=5
 accuracy=80
 damageRange=2
 animation=cast
-statChange=player,pow,1,2.lauren,acc,1,2
 desc=She throws her iPad at you!
 
 Integer Swarm
-damage=5
+damage=20
 accuracy=80
-damageRange=2
-special=alias
-statChange=player,pow,100,2.lauren,acc,100,2
+damageRange=10
 animation=computer
 desc=She summons variables from her list!
+
+2D List Code Tracing
+damage=10
+accuracy=75
+damageRange=5
+statChange=player,acc,-10,2
+animation=computer
+desc=All the arrows confuse you!
+
+Black Flash
+damage=20
+accuracy=70
+damageRange=5
+statChange=player,pow,-10,2.lauren,pow,20,2
+animation=cast
+desc=Is this a JJK reference?
+
+Malevolent Script
+damage=10
+accuracy=90
+damageRange=2
+statChange=player,def,-15,5
+animation=cast
+desc=The Strongest in History!
