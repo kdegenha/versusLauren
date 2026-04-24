@@ -1,8 +1,14 @@
 Stack'd Burger
 desc=The comeback sauce fills you with warmth.
-info=Heals you some ig
+info=Heals you for 20 HP
 amount=6
-statChange=player,pow,1,2.lauren,acc,1,5
+statChange=player,hp,20,100
+
+AA Battery
+desc=You pop it into your laptop!
+info=Restores 20 energy
+amount=6
+statChange=player,energy,20,100
 
 Instant Death
 desc=Are you serious?
@@ -10,9 +16,14 @@ info=Don't use this one
 amount=-1
 statChange=player,hp,-100,2.lauren,acc,1,5
 
-Specialz
-desc=We're specialz
-info=You are my specialz
-amount=1
-statChange=player,pow,1,2.lauren,acc,1,5
-special=specialz
+Ctrl +
+desc=You check CS Academy settings!
+info=Zoom in during TA Reci and increase your accuracy.
+amount=3
+statChange=player,acc,50,3
+
+Lucky Coin
+desc=It comes up heads!
+info=increase your luck temporarily!
+amount=4
+statChange=player,luck,20,2
