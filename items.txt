@@ -15,4 +15,4 @@ desc=We're specialz
 info=You are my specialz
 amount=1
 statChange=player,str,1,2.lauren,acc,1,5
-special=specialz
+special=zpecialz
