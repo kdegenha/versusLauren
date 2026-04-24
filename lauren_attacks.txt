@@ -2,7 +2,6 @@ Immutable Object
 damage=5
 accuracy=80
 damageRange=2
-animation=hurt
 statChange=player,pow,1,2.lauren,acc,1,2
 desc=She throws her iPad at you!
 
@@ -12,4 +11,5 @@ accuracy=80
 damageRange=2
 special=alias
 statChange=player,pow,100,2.lauren,acc,100,2
+animation=computer
 desc=She summons variables from her list!
