@@ -14,7 +14,7 @@ Instant Death
 desc=Are you serious?
 info=Don't use this one
 amount=-1
-statChange=player,hp,-100
+statChange=player,hp,-100,100
 
 Ctrl +
 desc=You check CS Academy settings!
