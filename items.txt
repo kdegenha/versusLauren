@@ -20,7 +20,7 @@ Ctrl +
 desc=You check CS Academy settings!
 info=Zoom in during TA Reci and increase your accuracy.
 amount=3
-statChange=player,acc,50,4
+statChange=player,acc,50,3
 
 Luckiest Coin
 desc=It comes up heads!
