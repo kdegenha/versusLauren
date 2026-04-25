@@ -39,7 +39,7 @@ critChance=2
 statChange=player,energy,15,100
 desc=Optimize your code to run in a faster Big O, giving you extra energy for other attacks. 85% accuracy and 7 damage, costs no energy.
 
-Pop
+L.pop(i)
 damage=30
 accuracy=60
 damageRange=3
