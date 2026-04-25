@@ -21,7 +21,7 @@ damageRange=1
 critChance=2
 energy=5
 statChange=lauren,acc,-75,4
-desc=Trip Lauren up with a mistyped character! Low accuracy but significantly lowers Lauren's accuracy for 2 turns. Costs 5 energy.
+desc=Low accuracy but screws up Lauren's accuracy for 2 turns. Costs 5 energy.
 
 String Slice
 damage=20
@@ -37,7 +37,7 @@ accuracy=85
 damageRange=3
 critChance=2
 statChange=player,energy,15,100
-desc=Optimize your code to run in a faster Big O, giving you extra energy for other attacks. 85% accuracy and 7 damage, costs no energy.
+desc=Lower your Big O for bonus energy. 85% accuracy and 7 damage, costs no energy.
 
 L.pop(i)
 damage=30
@@ -54,4 +54,4 @@ damageRange=2
 critChance=20
 energy=15
 statChange=player,luck,5,100
-desc=Does 10 damage with 80% accuracy, but also an unusually high crit chance. Hitting it also increases your own luck. Costs 15 energy.
+desc=Like Boolean Bullet, but also high crit chance. Hitting it also increases your own luck. Costs 15 energy.
