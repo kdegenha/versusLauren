@@ -7,14 +7,14 @@ statChange=player,hp,20,100
 AA Battery
 desc=You pop it into your laptop!
 info=Restores 20 energy
-amount=6
+amount=5
 statChange=player,energy,20,100
 
-Instant Death
-desc=Are you serious?
-info=Don't use this one
-amount=-1
-statChange=player,hp,-100,100
+Code Tracer
+desc=You track all the variables by hand!
+info=Increases your accuracy by 50 temporarily.
+amount=3
+statChange=player,acc,50,5
 
 Lucky Coin
 desc=It comes up heads!
