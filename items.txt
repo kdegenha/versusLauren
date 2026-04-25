@@ -14,16 +14,16 @@ Instant Death
 desc=Are you serious?
 info=Don't use this one
 amount=-1
-statChange=player,hp,-100,2.lauren,acc,1,5
+statChange=player,hp,-100
 
 Ctrl +
 desc=You check CS Academy settings!
 info=Zoom in during TA Reci and increase your accuracy.
 amount=3
-statChange=player,acc,50,3
+statChange=player,acc,50,4
 
-Lucky Coin
+Luckiest Coin
 desc=It comes up heads!
 info=increase your luck temporarily!
 amount=4
-statChange=player,luck,20,2
+statChange=player,luck,20,4
