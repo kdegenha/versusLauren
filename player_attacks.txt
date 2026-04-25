@@ -20,8 +20,8 @@ accuracy=67
 damageRange=1
 critChance=2
 energy=5
-statChange=lauren,acc,-75,2
-desc=Trip Lauren up with a mistyped character! Low accuracy but significantly lowers Lauren's accuracy temporarily. Costs 5 energy.
+statChange=lauren,acc,-75,4
+desc=Trip Lauren up with a mistyped character! Low accuracy but significantly lowers Lauren's accuracy for 2 turns. Costs 5 energy.
 
 String Slice
 damage=20
